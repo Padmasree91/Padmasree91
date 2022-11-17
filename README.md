@@ -1,5 +1,7 @@
 PADMASREE
+
 DevOps/Cloud
+
 padmasreepasupuleti91@gmail.com | LinkedIn: www.linkedin.com/in/lakshmana-padmasree-pasupuleti
 
 DevOps Engineer with 3+ years of experience in Build and Release, configuration management, infrastructure management, Cloud management, Monitoring and maintaining, Containerisation and Orchestration in an automated passion.
